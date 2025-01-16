@@ -1,0 +1,19 @@
+{
+  "name": "books-read",
+  "version": "1.0.0",
+  "description": "A simple site to record the books I've read. Built using [Hugo]() as a way to get familiar with it for my day job. [Live Preview](https://books-dwhenson.netlify.app/) Cover images from: [Bookshop.org](https://uk.bookshop.org/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^2.6.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.8.0",
+    "@types/node": "^22.10.7"
+  }
+}

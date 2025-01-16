@@ -5,7 +5,7 @@ date: 2023-12-20T00:00:00Z
 completed: true
 category: fiction
 pages: 548
-id: 9780708898888
+isbn: 9780708898888
 rating: 3.5
 review: A fun, rollicking ride though modern day Indian society.
 ---

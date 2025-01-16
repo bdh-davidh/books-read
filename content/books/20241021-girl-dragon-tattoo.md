@@ -5,7 +5,7 @@ date: '2024-10-22'
 completed: true
 category: "fiction"
 pages: 544
-id: 9781529432398
+isbn: 9781529432398
 rating: 3
 review: "Great characters, good plot. Just an enjoyable on my second read."
 ---

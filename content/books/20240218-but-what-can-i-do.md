@@ -5,7 +5,7 @@ date: '2024-02-21'
 completed: false
 category: "nonfiction"
 pages: 315
-id: 9781804943137
+isbn: 9781804943137
 rating: 2
 review: "A great magazine article, on an important subject, stretched out to make a book."
 ---

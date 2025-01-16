@@ -5,7 +5,7 @@ date: '2024-03-16'
 completed: false
 category: "fiction"
 pages: 384
-id: 9781787333444
+isbn: 9781787333444
 rating: 1
 review: "A thin, sketch of a story, with characters I didn't care about."
 ---

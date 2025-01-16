@@ -5,7 +5,7 @@ date: '2024-11-29'
 completed: true
 category: "nonfiction"
 pages: 467
-id: 9780552170321
+isbn: 9780552170321
 rating: 3
 review: "A gripping account of finance in late 90's Moscow, with a dark underside and consequences."
 ---

@@ -5,7 +5,7 @@ date: '2024-04-12'
 completed: true
 category: "nonfiction"
 pages: 379
-id: 9781529369069
+isbn: 9781529369069
 rating: 3
 review: "A page turning, thriller of a book, dealing with a terrible subject."
 ---

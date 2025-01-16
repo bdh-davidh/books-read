@@ -5,7 +5,7 @@ date: 2024-01-12
 completed: true
 category: "fiction"
 pages: 320
-id: 9781474602921
+isbn: 9781474602921
 rating: 3
 review: "An atmospheric exploration of life in occupied France during the Second World war."
 ---

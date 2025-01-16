@@ -5,7 +5,7 @@ date: '2024-08-09'
 completed: true
 category: "nonfiction"
 pages: 480
-id: 9781786075406
+isbn: 9781786075406
 rating: 3
 review: "A solid and down-to earth account account of the motivations, methods and mechanisms of al-Qaeda."
 ---

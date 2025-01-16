@@ -5,7 +5,7 @@ date: "2024-11-09"
 completed: true
 category: "fiction"
 pages: 457
-id: 9781472261403
+isbn: 9781472261403
 rating: 4
 review: "An emotional rollercoaster that forced me to think about migrants as people rather than a political issue."
 ---

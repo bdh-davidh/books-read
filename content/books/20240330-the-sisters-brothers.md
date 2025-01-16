@@ -5,7 +5,7 @@ date: '2024-04-06'
 completed: true
 category: "fiction"
 pages: 210
-id: 9781847083197
+isbn: 9781847083197
 rating: 3
 review: "The Blues Brothers meet Deadwood. In a good way."
 ---

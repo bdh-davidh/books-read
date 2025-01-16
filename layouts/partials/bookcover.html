@@ -1,15 +1,15 @@
 {{ $bookCover :=
     print "https://images-eu.bookshop.org/images/"
-    .Params.id
+    .Params.isbn
     ".jpg"
 }}
 
 {{ $title := .Params.title }}
 {{ $category := .Params.category }}
-{{ $id := .Params.id }}
+{{ $id := .Params.isbn }}
 
 {{ with resources.GetRemote $bookCover }}
     <div class="{{ $category }}"  >
-        <img class="cover-image" src="{{ $bookCover }}" alt="{{ $title }}" width="420" height="640" style="view-transition-name: image-{{ $id }}">
+        <img class="cover-image" src="{{ $bookCover }}" alt="{{ $title }}" width="420" height="640" style="view-transition-name: image-{{ $isbn }}">
     </div>
 {{ end }}

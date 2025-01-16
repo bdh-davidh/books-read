@@ -5,7 +5,7 @@ date: "2023-12-19"
 completed: true
 category: "nonfiction"
 pages: 416
-id: 9780008476656
+isbn: 9780008476656
 rating: 3
 review: "An interesting account of the history and context of the Brighton bombing."
 ---

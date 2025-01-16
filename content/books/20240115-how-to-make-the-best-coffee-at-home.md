@@ -5,7 +5,7 @@ date: "2024-01-15"
 completed: true
 category: "nonfiction"
 pages: 224
-id: 9781784727246
+isbn: 9781784727246
 rating: 3
 review: "A concise, no-nonsense guide to making better coffee. Useful and beautiful!"
 ---

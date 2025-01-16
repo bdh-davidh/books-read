@@ -5,7 +5,7 @@ date: 2024-01-27
 completed: true
 category: "nonfiction"
 pages: 435
-id: 9781787332713
+isbn: 9781787332713
 rating: 3.5
 review: "An interesting insight into the world of Westminster politics."
 ---
